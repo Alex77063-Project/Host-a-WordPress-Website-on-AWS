@@ -1,5 +1,5 @@
+2._Host_a_WordPress_Website_on_AWS (1).png
 # WordPress Website on AWS - DevOps Project
-
 ## Overview
 This project demonstrates how to host a WordPress website on AWS, using a combination of AWS services to ensure scalability, high availability, and security. The infrastructure is deployed within an Amazon Web Services (AWS) Virtual Private Cloud (VPC), leveraging multiple Availability Zones (AZs) for fault tolerance and auto-scaling for handling traffic spikes. 
 
