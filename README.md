@@ -5,7 +5,7 @@ This project demonstrates how to host a WordPress website on AWS, using a combin
 The repository includes scripts and a reference diagram that can help others replicate the deployment.
 
 ## Architecture
-![Alt text].(html.png).
+![image](https://github.com/user-attachments/assets/0f64cb41-3a61-4b50-8829-b6dcdf097d2f)
 
 ### Key Components:
 1. **VPC**: A custom VPC configured with public and private subnets across two different availability zones to ensure high availability and fault tolerance.
