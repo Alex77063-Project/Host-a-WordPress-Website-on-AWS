@@ -1,4 +1,4 @@
-fs-07c0c6689dc95b7b4.efs.us-east-1.amazonaws.com create to root user
+
 sudo su
 
 # update the software packages on the ec2 instance 
